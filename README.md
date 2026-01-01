@@ -2,10 +2,8 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=HikaruAkashi7&fontSize=70&fontColor=000000&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35C7A2&background=00000000&center=true&vCenter=true&width=500&lines=Infrastructure+Engineer;DevOps+Enthusiast;Terraform+%2F+AWS+%2F+Python;Composer+%26+Music+Lover" alt="Typing SVG" />
-  </a>
-
+  <h3>Infrastructure Engineer ☁️ DevOps 🚀 FinOps 💰</h3>
+  
   <br />
 
   <a href="https://qiita.com/hikaruakashi0730">
@@ -19,8 +17,10 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as an **Infrastructure Engineer**.
-- 🌱 I’m deeply focusing on **DevOps culture & CI/CD pipelines**.
 - ☁️ Specialized in **AWS & Terraform**.
+- 💰 Passionate about **FinOps** culture.
+  - *Achieved significant **cloud cost reduction** by optimizing resources.*
+- 🌱 Deeply focusing on **DevOps & CI/CD pipelines**.
 - 🎵 Beside code, I love **Music & Composition**.
 
 <br />
@@ -29,7 +29,7 @@
 
 <div align="center">
   <a href="https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/detail/OHhVZ1luSDN6SHIrNkx3ckpsUXNkZz09" target="_blank">
-    <img src="https://www.openbadge-global.com/ns/portal/openbadge/public/assertions/badgeImage/OHhVZ1luSDN6SHIrNkx3ckpsUXNkZz09" width="150" alt="LinuC-1 OpenBadge">
+    <img src="./open-data-hackathon-badge-2024.png" width="150" alt="Badge">
   </a>
 </div>
 
