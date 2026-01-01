@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=HikaruAkashi7&fontSize=70&fontColor=000000&fontAlignY=35&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=HikaruAkashi7&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35C7A2&background=00000000&center=true&vCenter=true&width=500&lines=Infrastructure+Engineer;DevOps+Enthusiast;FinOps+%26+Cost+Optimization;Composer+%26+Music+Lover" alt="Typing SVG" />
@@ -60,19 +60,19 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HikaruAkashi7&show_icons=true&theme=transparent&bg_color=ffffff&title_color=000000&text_color=333333&icon_color=35C7A2&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HikaruAkashi7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruAkashi7&layout=compact&theme=transparent&bg_color=ffffff&title_color=000000&text_color=333333&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruAkashi7&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HikaruAkashi7&theme=light&ring=35C7A2&fire=35C7A2&currStreakLabel=35C7A2&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HikaruAkashi7&theme=tokyonight&hide_border=true&background=00000000" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
 </div>
