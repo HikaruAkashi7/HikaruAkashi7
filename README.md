@@ -2,8 +2,10 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=HikaruAkashi7&fontSize=70&fontColor=000000&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-  <h3>Infrastructure Engineer ☁️ DevOps 🚀 FinOps 💰</h3>
-  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35C7A2&background=00000000&center=true&vCenter=true&width=500&lines=Infrastructure+Engineer;DevOps+Enthusiast;FinOps+%26+Cost+Optimization;Composer+%26+Music+Lover" alt="Typing SVG" />
+  </a>
+
   <br />
 
   <a href="https://qiita.com/hikaruakashi0730">
