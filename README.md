@@ -1,28 +1,27 @@
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### 📊 GitHub Stats
 <div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=tokyonight&count_private=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=あなたのユーザー名&layout=compact&theme=tokyonight" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=あなたのユーザー名&theme=tokyonight" />
+</div>
 
-## ⚡ Recent Activity
-
-| 📝 Latest Blog Posts | 📽️ Recent Projects |
-| :--- | :--- |
-| [Understanding React Server Components](your-link) | [**AI Chat App**](your-repo-link) - GPT-4 wrapper |
-| [How to use Docker efficiently](your-link) | [**E-commerce UI**](your-repo-link) - Next.js template |
-| [My journey as a developer](your-link) | [**CLI Tool**](your-repo-link) - Rust based tool |
+### 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=あなたのユーザー名&theme=flat&no-frame=true&no-bg=true&margin-w=4" />
+</div>
 
 ---
 
-## 📫 Connect with me
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/your-id">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+### 🛠 Languages and Tools
+<p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
