@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=HikaruAkashi7&fontSize=70&fontColor=000000&fontAlignY=35&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35C7A2&background=00000000&center=true&vCenter=true&width=500&lines=Infrastructure+Engineer;DevOps+Enthusiast;FinOps+%26+Cost+Optimization;Composer+%26+Music+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=35C7A2&background=00000000&center=true&vCenter=true&width=500&lines=Infrastructure+Engineer;DevOps+Enthusiast;FinOps+%26+Cost+Optimization" alt="Typing SVG" />
   </a>
 
   <br />
@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working as an **Infrastructure Engineer**.
 - ☁️ Specialized in **AWS & Terraform**.
-- 💰 Passionate about **FinOps** culture.
+- 💰 Interested in **FinOps** culture.
   - *Achieved significant **cloud cost reduction** by optimizing resources.*
 - 🌱 Deeply focusing on **DevOps & CI/CD pipelines**.
 - 🎵 Beside code, I love **Music & Composition**.
@@ -60,15 +60,15 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HikaruAkashi7&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HikaruAkashi7&show_icons=true&theme=default&hide_border=true" alt="HikaruAkashi7's GitHub stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruAkashi7&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikaruAkashi7&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HikaruAkashi7&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=HikaruAkashi7&theme=default&hide_border=true" alt="Streak Stats" />
 </div>
 
 <br />
